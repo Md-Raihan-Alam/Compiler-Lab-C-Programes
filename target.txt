@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main()
+{
+	// remove me
+	/*
+	remove me
+*/
+	printf(" // do not remove me");
+	return 0;
+}
